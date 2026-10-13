@@ -89,6 +89,6 @@ You can also open the files in an IDE: IntelliJ IDEA for Kotlin and Scala, PyCha
 
 Viola Zeneli (Kotlin), Sidrit Rrustemi (Scala), Denisa Korra (Python)
 
-## Lecturers
+## Lecturer
 
-Dr. Erind Bedalli, M.Sc. Griselda Alushllari
+Dr. Erind Bedalli
