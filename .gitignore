@@ -1,0 +1,17 @@
+# build output
+build/
+out/
+*.class
+*.jar
+.scala-build/
+.bsp/
+__pycache__/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Office lock files
+~$*
